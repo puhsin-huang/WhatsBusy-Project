@@ -4,12 +4,17 @@ The Jupyter notebook file contains my research and the final forecast model for 
 
 I will walk thorugh the details of the following steps in the notebook attached.
 
-Step1: Conduct Exploratory Analysis
-Step2: Feature engineering
-Step3: Feature Selection
-Step4: Select the best model
-Step5: Apply on the OOT set
-Step6: Result & Future work
+- Step1: Conduct Exploratory Analysis
+
+- Step2: Feature engineering
+
+- Step3: Feature Selection
+
+- Step4: Select the best model
+
+- Step5: Apply on the OOT set
+
+- Step6: Result & Future work
 
 
 
